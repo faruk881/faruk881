@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a **Trainee Laravel Backend Developer**
+- 🔭 Currently working as a **Laravel Backend Developer**
 - 🌱 Learning **advanced backend architecture, system design & DevOps**
 - ⚡ Passionate about building scalable backend systems and APIs
 - 🛠️ Interested in Laravel ecosystem, performance optimization, and clean architecture
@@ -44,6 +44,7 @@
 - Git & GitHub
 - Postman
 - VS Code
+- Antigravity
 
 ---
 
@@ -62,7 +63,7 @@ Worked on:
 
 ## 🚀 Featured Projects
 
-### 🌍 PocketOire
+### 🌍 Pocketoire
 🔗 https://pocketoire.com/
 
 Laravel-powered affiliate marketplace backend featuring:
